@@ -1,0 +1,4 @@
+iNotes on Terminal Commmands
+
+-ls: lists every file/folder in directory
+-cd: change directory 
