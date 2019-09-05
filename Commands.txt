@@ -1,0 +1,5 @@
+- i: insert/type something
+-esc: escape to save/exit
+-:#: brings you to a specific number line
+-w: save typing
+-q: quit and exit
