@@ -1,4 +1,7 @@
 iNotes on Terminal Commmands
 
 -ls: lists every file/folder in directory
--cd: change directory 
+-cd: change directory
+-pwd: lists folders currently in
+-mkdir [name]: makes a folder of that name
+-cd ..: moves up a directory
