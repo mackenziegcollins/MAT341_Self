@@ -1,5 +1,0 @@
-function prob = estimateTriangleCenterCircleProbability(N)
-
-x = 2*rand() - 2 % a = b = 2 from the given hint
-y = [-1 1]*sqrt(4 - x^2)
-
